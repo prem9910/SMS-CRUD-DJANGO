@@ -2,7 +2,7 @@
 
 This is a student management system built using **Django 4**, **HTML 5**, **CSS 3**, and **Bootstrap 5** with a **Bootswatch** theme.
 
-![plot](https://github.com/prem9910/SMS-CRUD-DJANGO/master/homepage.png?raw=true)
+![plot](https://github.com/prem9910/SMS-CRUD-DJANGO/main/Homepage.png?raw=true)
 
 
 ## Table of Contents 
