@@ -2,7 +2,7 @@
 
 This is a student management system built using **Django 4**, **HTML 5**, **CSS 3**, and **Bootstrap 5** with a **Bootswatch** theme.
 
-D:\GitHub Project\Django Project\student-management-system-master\Homepage.png
+<img src="Homepage.png" alt="Alt text" title="Optional title">
 
 ## Table of Contents 
 - [Prerequisites](#prerequisites)
